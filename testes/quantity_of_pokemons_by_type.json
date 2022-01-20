@@ -1,0 +1,22 @@
+{
+    "results": {
+        "Grass": 109,
+        "Poison": 71,
+        "Fire": 73,
+        "Dragon": 61,
+        "Flying": 113,
+        "Water": 141,
+        "Bug": 83,
+        "Normal": 116,
+        "Dark": 60,
+        "Electric": 61,
+        "Psychic": 103,
+        "Ice": 43,
+        "Steel": 60,
+        "Ground": 75,
+        "Fairy": 53,
+        "Fighting": 63,
+        "Rock": 69,
+        "Ghost": 57
+    }
+}
